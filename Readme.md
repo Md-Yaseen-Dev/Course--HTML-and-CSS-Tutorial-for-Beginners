@@ -1,4 +1,4 @@
-# HTML and CSS Tutorial for Begineers
+<!-- # HTML and CSS Tutorial for Begineers
 
 ---
 <!-- ##   <u> *Introduction:-* </u> -->
@@ -39,20 +39,21 @@
 
 ### CSS
 ---
-- > **01. CSS Intro** &#8594;[click-here](./Css/01.%20CSS.Intro/)
-- > **02. Color** &#8594;[click-here](./Css/02.%20Color/)
-- > **03. Background** &#8594;[click-here](./Css/03.%20Background/)
-- > **04. Fonts** &#8594;[click-here](./Css/04.%20Fonts/)
-- > **05 Text formatting** &#8594;[click-here](./Css/05.%20Text%20Formatting/)
-- > **06 Links** &#8594;[click-here](./Css/06.%20Links/)
-- > **07 Border** &#8594;[click-here](./Css/07.%20Border/)
-<!-- - > **0 ** &#8594;[click-here]()
-- > **0 ** &#8594;[click-here]()
-- > **0 ** &#8594;[click-here]()
-- > **0 ** &#8594;[click-here]()
-- > **0 ** &#8594;[click-here]()
-- > **0 ** &#8594;[click-here]()
-- > **0 ** &#8594;[click-here]()
-- > **0 ** &#8594;[click-here]()
-- > **0 ** &#8594;[click-here]()
-- > **0 ** &#8594;[click-here]() -->
+- > **01. CSS Intro** &#8594;[click-here](./Css/01.%20CSS.Intro/index.html)
+- > **02. Color** &#8594;[click-here](./Css/02.%20Color/index.html)
+- > **03. Background** &#8594;[click-here](./Css/03.%20Background/index.html)
+- > **04. Fonts** &#8594;[click-here](./Css/04.%20Fonts/index.html)
+- > **05. Text formatting** &#8594;[click-here](./Css/05.%20Text%20Formatting/index.html)
+- > **06. Links** &#8594;[click-here](./Css/06.%20Links/index.html)
+- > **07. Border** &#8594;[click-here](./Css/07.%20Border/index.html)
+ - > **08. Padding** &#8594;[click-here](./Css/08.Padding/index.html)
+- > **09. Margin** &#8594;[click-here](./Css/09.%20Margin/index.html)
+- > **10.Tables** &#8594;[click-here](./Css/10.%20Tables/index.html)
+- > **11. Span and div** &#8594;[click-here](./Css/11.%20Span%20and%20Div/index.html)
+- > **12. Selectors** &#8594;[click-here](./Css/12.%20Selectors/index.html)
+- > **13. More Selectors** &#8594;[click-here](./Css/13.%20More%20Selectors/index.html)
+- > **14. Relative Position** &#8594;[click-here](./Css/14.%20Relative%20Positioning/index.html)
+- > **15. Absoulte Position** &#8594;[click-here](./Css/15.%20Absoulte%20Positioning/index.html)
+- > **16. Fixed Position** &#8594;[click-here](./Css/16.%20Fixed%20positining/index.html)
+- > **17. Style sheet levels** &#8594;[click-here](./Css/17.%20Style%20sheets%20Levels/index.html) 
+- > **18 style sheet priorty** &#8594;[click-here](./Css/18.%20Style%20sheet%20priority/) 
